@@ -31,19 +31,19 @@
 
 ## 📁 Folder Structure
 
-FinTeck-Bridge/
-│
-├── src/
-│ ├── ui/ # GUI screens using Swing
-│ ├── dao/ # JDBC Database Access Objects
-│ ├── model/ # Java Beans / Data Models
-│ ├── service/ # Business logic and controllers
-│ └── utils/ # Helper utilities (e.g., OpenAI integration)
-│
-├── lib/ # External JARs (if any)
-├── sql/ # MySQL scripts for DB schema
-├── README.md
-└── LICENSE
+FinTeck-Bridge/ <br>
+│ <br>
+├── src/ <br>
+│ ├── ui/ # GUI screens using Swing <br>
+│ ├── dao/ # JDBC Database Access Objects <br>
+│ ├── model/ # Java Beans / Data Models <br>
+│ ├── service/ # Business logic and controllers <br>
+│ └── utils/ # Helper utilities (e.g., OpenAI integration) <br>
+│ <br>
+├── lib/ # External JARs (if any) <br>
+├── sql/ # MySQL scripts for DB schema <br>
+├── README.md <br>
+└── LICENSE <br>
 
 
 
