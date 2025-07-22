@@ -114,7 +114,7 @@ This project includes an optional AI-powered chatbot integrated via the **OpenAI
 
 ---
 
-🔗 Connect With Me
+🔗 Connect With Me <br>
 💼 GitHub: github.com/krpiyush1302 <br>
 🔗 LinkedIn: linkedin.com/in/krpiyush1308<br>
 📧 Email: krpiyush1308@gmail.com<br>
