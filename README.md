@@ -61,12 +61,13 @@ FinTeck-Bridge/
 ### 🔧 Installation Steps
 
 1. **Clone the Repository**
+<br>
 git clone https://github.com/krpiyush1302/FinTeck-Bridge.git <br>
 cd FinTeck-Bridge
 
 
 
-2. **Configure the Database**
+3. **Configure the Database**
 
 - Open MySQL and run the script from `/sql/schema.sql` to set up tables.
 - Update DB credentials in `DBConnection.java`.
