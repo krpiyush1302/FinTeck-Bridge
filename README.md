@@ -61,7 +61,6 @@ FinTeck-Bridge/ <br>
 ### 🔧 Installation Steps
 
 1. **Clone the Repository**
-<br>
 git clone https://github.com/krpiyush1302/FinTeck-Bridge.git <br>
 cd FinTeck-Bridge
 
@@ -114,6 +113,12 @@ This project includes an optional AI-powered chatbot integrated via the **OpenAI
 - Role-Based Access Control for advanced admin features
 
 ---
+
+🔗 Connect With Me
+💼 GitHub: github.com/krpiyush1302 <br>
+🔗 LinkedIn: linkedin.com/in/krpiyush1308<br>
+📧 Email: krpiyush1308@gmail.com<br>
+
 
 ## 🙋‍♂️ Feedback or Contributions
 
