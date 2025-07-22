@@ -61,7 +61,7 @@ FinTeck-Bridge/
 ### 🔧 Installation Steps
 
 1. **Clone the Repository**
-git clone https://github.com/krpiyush1302/FinTeck-Bridge.git
+git clone https://github.com/krpiyush1302/FinTeck-Bridge.git <br>
 cd FinTeck-Bridge
 
 
